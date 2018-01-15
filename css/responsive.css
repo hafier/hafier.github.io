@@ -1,0 +1,118 @@
+/* Small Devices */
+@media only screen and (max-width: 767px) {
+    
+    .navbar-default {
+        
+        background-color: #fff !important;
+        border-color: #e6e6e6;
+    }
+    .logo{
+        padding-bottom: 10px;
+        padding-top: 10px;
+         
+     }
+    .logo img{
+       width: 50%;
+        height: 50%;
+    }
+    .header-text{
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .header-text h1{
+         font-size: 20px;
+    }
+    .header-btns{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    
+    .header-kitimage img {
+        display: none;
+    }
+    .header-text, .header-btns{
+        text-align: center;
+    }
+    .header-overlay{
+        padding-bottom: 20px;
+    }
+    .section-title{
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .section-title h2{
+        font-size: 26px;
+    }
+    .player-month-title{
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .player-month-title h2{
+        font-size: 20px;
+    }
+    .player-month-text{
+       background: rgba(30,30,30,0);         
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .player-month-text p{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .player-month-item{
+       display: none;
+    }
+    .players-overlay{
+         padding-bottom: 30px;
+        padding-top: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .player-caption h2 {
+        font-size: 30px;
+    }
+    .player-caption h2 span{
+        font-size: 30px;
+    }
+    .player-caption h4{
+       display: none;
+
+    }
+    .carousel-indicators li{
+        display: none;
+    }
+    .honours{
+        display: none;
+    }
+    .yournameshirt{
+         padding-bottom: 30px;
+        padding-top: 30px;
+        text-align: center;
+    }
+    .titles-overlay{
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+   
+}
+
+ /* Small Devices & TAB */
+@media only screen and (max-width: 768px) {
+    
+    
+}
+
+/* MED Devices & DESK*/
+@media only screen and (max-width: 992px) {
+    
+   
+}
+
+/* LARGE Devices & WIDE SCREEN*/
+@media only screen and (max-width: 1200px) {
+    
+   
+}
